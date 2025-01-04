@@ -104,13 +104,11 @@ Files included:
 - `run_task_manager.bat` - One-click script to run the program
 
 ## 🎥 Demo Video
-[Watch how it works](your-video-link-here)
+[Watch how it works](https://youtu.be/fBnugI9nbF8)
 
 The video shows:
-1. How to install and start (0:00-1:00)
-2. All features in action (1:00-4:00)
-3. How to handle common operations (4:00-5:00)
-4. Tips and tricks (5:00-6:00)
+1. How to install and start 
+2. All features in action 
 
 ## 📧 Contact
 Created by Ashish Kumar 
