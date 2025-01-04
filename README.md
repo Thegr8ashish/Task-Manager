@@ -6,7 +6,7 @@
 
 > A user-friendly desktop application that helps you manage and organize your daily tasks. Created as a Python Programming project at IIT MANDI, Masai School.
 
-## 📑 Table of Contents
+## 📁 Table of Contents
 - [Features](#-features)
 - [Simple Installation Guide](#-simple-installation-guide)
 - [How to Use](#-how-to-use)
@@ -22,6 +22,7 @@
 - Delete one or many tasks at once
 - Mark single or multiple tasks as completed
 - Tasks are saved when exiting properly (using option 6)
+- **Run the program with one click** using the `.bat` file (requires Python and Colorama installed)
 - Colorful and easy-to-read display
 - Error handling for:
   - Invalid menu selections
@@ -51,9 +52,14 @@ pip install colorama
 ```
 
 ### Step 4: Run the Program
-1. Navigate to the unzipped folder
-2. Double-click `main.py`
-   - Or open Command Prompt/Terminal in the folder and type:
+#### Option 1: Using the `.bat` file
+- Navigate to the unzipped folder
+- Double-click the `run_task_manager.bat` file
+- This will open the program in CMD and let you use it immediately.
+
+#### Option 2: Using Python Manually
+- Open Command Prompt/Terminal in the folder
+- Run the program with:
 ```bash
 python main.py
 ```
@@ -96,6 +102,7 @@ Files included:
 - `task_manager.py` - Handles tasks
 - `file_handler.py` - Saves your tasks
 - `tasks.json` - Where your tasks are stored
+- `run_task_manager.bat` - One-click script to run the program
 
 ## 🎥 Demo Video
 
