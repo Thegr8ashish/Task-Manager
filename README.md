@@ -1,5 +1,4 @@
 # Task Manager 📋
-
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![IDE](https://img.shields.io/badge/VSCode-1.84+-blue.svg)](https://code.visualstudio.com/)
@@ -15,7 +14,6 @@
 - [Contact](#-contact)
 
 ## ✨ Features
-
 - See all your tasks in one place
 - Add new tasks easily
 - Edit task details
@@ -52,10 +50,13 @@ pip install colorama
 ```
 
 ### Step 4: Run the Program
+
 #### Option 1: Using the `.bat` file
 - Navigate to the unzipped folder
 - Double-click the `run_task_manager.bat` file
-- This will open the program in CMD and let you use it immediately.
+- **Note**: You may see a Windows Defender SmartScreen warning saying "Windows protected your PC" because the .bat file is from an unknown publisher. This is normal for custom scripts. You have two options:
+  1. Click "More info" and then "Run anyway" if you trust the source
+  2. Alternatively, you can run the program using Option 2 below to avoid the warning
 
 #### Option 2: Using Python Manually
 - Open Command Prompt/Terminal in the folder
@@ -65,7 +66,6 @@ python main.py
 ```
 
 ## 💻 How to Use
-
 When you start the program, you'll see this menu:
 ```
 ===============================
@@ -95,7 +95,6 @@ When you start the program, you'll see this menu:
 6. Press 6 to save and exit
 
 ## 📁 Project Details
-
 Files included:
 - `main.py` - Starts the program
 - `menu.py` - Shows the menu
@@ -105,7 +104,6 @@ Files included:
 - `run_task_manager.bat` - One-click script to run the program
 
 ## 🎥 Demo Video
-
 [Watch how it works](your-video-link-here)
 
 The video shows:
@@ -115,7 +113,6 @@ The video shows:
 4. Tips and tricks (5:00-6:00)
 
 ## 📧 Contact
-
 Created by Ashish Kumar 
 - GitHub: [@Thegr8ashish](https://github.com/Thegr8ashish)
 - Project Link: [Task Manager](https://github.com/Thegr8ashish/Task-Manager)
