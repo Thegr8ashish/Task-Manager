@@ -32,7 +32,7 @@ def menu(tasks):
             elif choice == 6:
                 save_tasks(tasks)  # Save tasks before exiting
                 print("Exiting...")
-                os.exit(0)
+                sys.exit(0)
             else:
                 print("Invalid choice, please try again.")
         except ValueError:
