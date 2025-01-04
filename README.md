@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![IDE](https://img.shields.io/badge/VSCode-1.84+-blue.svg)](https://code.visualstudio.com/)
 
-> A user-friendly desktop application that helps you manage and organize your daily tasks. Created as a Python Programming course project at IIT MANDI, Masai School.
+> A user-friendly desktop application that helps you manage and organize your daily tasks. Created as a Python Programming project at IIT MANDI, Masai School.
 
 ## 📑 Table of Contents
 - [Features](#-features)
