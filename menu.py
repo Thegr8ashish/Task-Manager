@@ -1,4 +1,5 @@
 import sys
+import os
 from task_manager import view_tasks, add_task, edit_task, delete_task, mark_completed
 from file_handler import save_tasks
 from colorama import Fore, Style
@@ -33,6 +34,7 @@ def menu(tasks):
                 save_tasks(tasks)  # Save tasks before exiting
                 print("Exiting...")
                 sys.exit(0)
+                os._exit(0)  # Forcefully close the terminal
             else:
                 print("Invalid choice, please try again.")
         except ValueError:
